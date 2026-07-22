@@ -1,1 +1,1 @@
-# pth-wedding
+# wedding
