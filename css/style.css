@@ -599,8 +599,8 @@ body {
 /* Music toggle button */
 .music-toggle {
   position: fixed;
-  right: 32px;
-  bottom: 32px;
+  right: 24px;
+  bottom: 24px;
   width: 48px;
   height: 48px;
   padding: 0;
