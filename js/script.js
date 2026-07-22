@@ -288,7 +288,7 @@ window.addEventListener('hashchange', updateGuestName);
 
 // Countdown function
 function updateCountdown() {
-  const targetDate = new Date(isGroomSide(getGuestId()) ? '2026-06-13T00:00:00' : '2026-06-07T00:00:00').getTime();
+  const targetDate = new Date('2026-07-24T00:00:00').getTime();
   const now = new Date().getTime();
   const timeRemaining = targetDate - now;
 
